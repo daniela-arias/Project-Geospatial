@@ -2,7 +2,7 @@
 
 ![portada](https://github.com/daniela-arias/Taller_Geo/blob/main/Data/0_iOecJNnpG0Pz1y0t.png)
 ​
-# Objetivo
+# Objetive
 The objective of this project is to determine the perfect location for a new company in the gaming industry. 
 ​
 - **Designers** --> near to companies that do design.
