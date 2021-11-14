@@ -1,6 +1,6 @@
 # Project Geospatial
 
-![portada](https://circulotne.com/wp-content/uploads/2017/10/SIlicon-Valley-pelea-por-escaso-talento-en-IA-Revista-TNE.jpg)
+![portada](https://github.com/daniela-arias/Taller_Geo/blob/main/Data/0_iOecJNnpG0Pz1y0t.png)
 ​
 # Objetivo
 The objective of this project is to determine the perfect location for a new company in the gaming industry. 
@@ -21,6 +21,7 @@ Based on previous knowledge of the tech industry, the decision was made to analy
 
 Madrid, Bucharest and Dublin.
 ​
+
 # Working plan 
 ​
 The coordinates were chosen because they are key points in each of the chosen cities, which will bring strategic positioning to the company.
@@ -48,9 +49,10 @@ The structure of this project is composed of:
  1. A folder of notebooks: 
     
     a) **Cleaning_data.ipynb** -->the call is made to the Api of "Foursquare Developers", where we will get some preferred conditions where we want our company to be located
-​
+
     b) **Geospatial_queries.ipynb** --> 
-​
+
+
     c) **Results.ipynb** --> 
 ​
    
@@ -65,7 +67,6 @@ The structure of this project is composed of:
 ​
 ​
 # Libraries
-​
 
 [sys](https://docs.python.org/3/library/sys.html)
 ​
