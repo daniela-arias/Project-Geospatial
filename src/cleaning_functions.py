@@ -6,7 +6,6 @@ import pandas as pd
 from functools import reduce
 import operator
 
-
 def getFromDict(diccionario,mapa):
     return reduce(operator.getitem,mapa,diccionario)
 
