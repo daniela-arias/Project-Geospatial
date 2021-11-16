@@ -1,3 +1,6 @@
 .env
 .ipynb_checkpoints
 data.json
+src
+Results.ipynb
+cleaning_functions.py
