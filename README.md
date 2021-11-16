@@ -33,9 +33,6 @@ From the requirements presented to us by the company, a selection was made of th
 I made use of the Foursquare API to make the calls and obtain the data for each of our variables. To continue, the information was downloaded in json format, to be grouped in the Mongo DB tool. For this purpose, a collection was created for each city and all the information of the different variables was dumped into it.
 
 
-
-
-​
 ​
 The following resources have been used to achieve the objective of this project: 
 ​
@@ -50,20 +47,13 @@ The structure of this project is composed of:
     
     a) **Cleaning_data.ipynb** -->the call is made to the Api of "Foursquare Developers", where we will get some preferred conditions where we want our company to be located
 
-    b) **Geospatial_queries.ipynb** --> 
-
-
-    c) **Results.ipynb** --> 
-​
-   
+    b) **Geospatial_queries.ipynb** --> Here we make the call to the queries and the corresponding maps. We also include the final results in relation to the choice of the city.
 
 ​
- 2. scr folder: folder where all the .py files are stored with all the explained functions used during the whole project. The .py files included are: 
-    a) CleaningFunctions used in the Cleaning_data.ipynb
-    b) GeospatialFunctions used in the Geospatial_queries.ipynb
-    c) ResultsFunctions used in the Results.ipynb
 ​
- 3. Output: all the dataframes imported and saved in csv format. 
+ 2. Json: all the dataframes imported and saved in json format.
+​
+ 
 ​
 ​
 # Libraries
